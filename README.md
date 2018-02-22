@@ -16,3 +16,15 @@ In this may, the method seeks to model the trial and error moethods that people 
 ones that don't work and improving on those that do.
 
 Anyone interested in colaborating on this project with me, please feel free to drop me a line.
+
+
+features implemented:
+random generation
+equation scoring
+poor equation replacement with leading equation
+
+working on:
+
+floating equation discrimination
+
+self changing equation dimentionality
